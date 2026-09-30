@@ -1,0 +1,59 @@
+{
+    "iconDefinitions":{
+        "_folder":{"iconPath":"./icons/icon-images/folder.svg"},
+        "_folder_open":{"iconPath":"./icons/icon-images/folder.svg"},
+        "_file":{"iconPath":"./icons/icon-images/file.svg"},
+        "_py":{"iconPath":"./icons/icon-images/pythonIcon.svg"},
+        "_js":{"iconPath":"./icons/icon-images/javaScriptIcon.svg"},
+        "_json":{"iconPath":"./icons/icon-images/jsonIcon.svg"},
+        "_lua":{"iconPath":"./icons/icon-images/luaIcon.svg"},
+        "_java":{"iconPath":"./icons/icon-images/javaIcon.svg"},
+        "_c":{"iconPath":"./icons/icon-images/C-CPP-CSHP-Icon.svg"},
+        "_cpp":{"iconPath":"./icons/icon-images/C-CPP-CSHP-Icon.svg"},
+        "_cs":{"iconPath":"./icons/icon-images/C-CPP-CSHP-Icon.svg"},
+        "_rs":{"iconPath":"./icons/icon-images/rustIcon.svg"},
+        "_go":{"iconPath":"./icons/icon-images/goIcon.svg"},
+        "_rb":{"iconPath":"./icons/icon-images/rubyIcon.svg"},
+        "_php":{"iconPath":"./icons/icon-images/PHPicon.svg"},
+        "_md":{"iconPath":"./icons/icon-images/markdownIcon.svg"},
+        "_tex":{"iconPath":"./icons/icon-images/laTex-Icon.svg"},
+        "_pl":{"iconPath":"./icons/icon-images/pearl-pearl6-icon.svg"},
+        "_p6":{"iconPath":"./icons/icon-images/pearl-pearl6-icon.svg"},
+        "_sql":{"iconPath":"./icons/icon-images/sqlIcon.svg"}
+
+        
+
+    },
+
+    "folder":"_folder",
+    "folderExpanded":"_folder_open",
+    "file":"_file",
+
+    "fileExtensions":{
+
+        "py":"_py",
+        "js": "_js", 
+        "json": "_json", 
+        "lua": "_lua",
+        "java":"_java",
+        "c":"_c",
+        "cpp":"_cpp",
+        "cs":"_cs",
+        "rs":"_rs",
+        "go":"_go",
+        "php":"_php",
+        "md": "_md",
+        "tex":"_tex", 
+        "pl":"_pl",
+        "p6":"_p6",
+        "sql":"_sql"
+
+    },
+
+    "fileNames":{
+
+        "package.json": "_json"
+
+    }
+}
+

@@ -1,0 +1,29 @@
+{
+  "name": "sakura-motchi-n-matcha",
+  "displayName": "Sakura-Mochi-N-Match",
+  "description": "This is a light theme Matcha Theme for VsCode! Inspired by Mitsuri :D",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.138.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sakura-Mochi-N-Matcha",
+        "uiTheme": "vs",
+        "path": "./themes/Sakura-Mochi-N-Matcha-color-theme.json"
+      }
+    ],
+
+    "iconThemes":[
+      {
+        "id": "Sakura-Mochi-N-Matcha-Icons",
+        "label": "Sakura Mochi N Matcha Icons",
+        "path": "./icons/icons.json"
+      }
+    ]
+  }
+}
